@@ -1,0 +1,1 @@
+Qt 6 starter: open CMakeLists.txt in Qt Creator, select Desktop Qt 6.12.0 MinGW 64-bit, Debug, Configure Project, Ctrl+B. This is a CMake adaptation only; compilation has not been verified here. Existing Database stores data in memory, not PostgreSQL. Keep the original ZIP as backup.
